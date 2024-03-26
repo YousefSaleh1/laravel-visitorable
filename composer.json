@@ -1,0 +1,26 @@
+{
+    "name": "dev/visitor",
+    "description": "Provides an attribute to allow counting the number of visitors for multiple models within your Laravel app",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dev\\Visitor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YousefSaleh1",
+            "email": "ys9882111@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": "Dev\\Visitor\\Providers\\VisitorableServiceProvider"
+        }
+    }
+}
