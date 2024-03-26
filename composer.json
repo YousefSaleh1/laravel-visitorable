@@ -20,7 +20,7 @@
     },
     "extra": {
         "laravel": {
-            "providers": "Devyousef\\Visitor\\Providers\\VisitorableServiceProvider"
+            "providers": "Devyousef\\Visitor\\Providers\\VisitorServiceProvider"
         }
     }
 }
