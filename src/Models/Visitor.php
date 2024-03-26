@@ -1,6 +1,6 @@
 <?php
 
-namespace Dev\Visitor\Models;
+namespace Devyousef\Visitor\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Config;

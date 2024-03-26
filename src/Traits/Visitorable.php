@@ -1,9 +1,9 @@
 <?php
 
-namespace Dev\Visitor\Traits;
+namespace Devyousef\Visitor\Traits;
 
 use App\Models\User;
-use Dev\Visitor\Models\Visitor;
+use Devyousef\Visitor\Models\Visitor;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 
 /**

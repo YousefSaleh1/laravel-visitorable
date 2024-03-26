@@ -1,6 +1,6 @@
 <?php
 
-namespace Dev\Visitor\Providers;
+namespace Devyousef\Visitor\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,11 +1,11 @@
 {
-    "name": "dev/visitor",
+    "name": "devyousef/visitor",
     "description": "Provides an attribute to allow counting the number of visitors for multiple models within your Laravel app",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Dev\\Visitor\\": "src/"
+            "Devyousef\\Visitor\\": "src/"
         }
     },
     "authors": [
@@ -20,7 +20,7 @@
     },
     "extra": {
         "laravel": {
-            "providers": "Dev\\Visitor\\Providers\\VisitorableServiceProvider"
+            "providers": "Devyousef\\Visitor\\Providers\\VisitorableServiceProvider"
         }
     }
 }
