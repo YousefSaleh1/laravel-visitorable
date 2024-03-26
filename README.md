@@ -24,4 +24,4 @@ php artisan migrate
 
 ## Usage
 
-In order to mark a model as "visitorable", import the >>Visitorable>> trait.
+In order to mark a model as "visitorable", import the [Visitorable] trait.
